@@ -1,5 +1,5 @@
 # TMoteSampleServer
-A sample server illustrating how one would add support for the TMote remote control application (available on the iOS App Store) to a MacOS application. 
+A sample server illustrating how one would add support for the TMote remote control application (available on the iOS App Store here: https://apps.apple.com/us/app/tmote/id1606989131) to a MacOS application. 
 
 TMote protocol makes use of NDI (https://ndi.video/) to deliver video to the TMote app and TUIO (https://www.tuio.org/) to send touches back to the server application. The TMoteSampleServer provided here is not a useful application in itself, it's provided to illustrate how one might implement TMote support in a native MacOS application. A more useful implementation of TMote support has been implemented in Touchdesigner and is available here: https://forum.derivative.ca/t/remote-controlling-touchdesigner-from-ios-devices/239406
 
